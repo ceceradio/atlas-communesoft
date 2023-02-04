@@ -16,12 +16,12 @@ NEXT STEP:
 PREREQUISITES
 
 1. brew
-2. nvm
-3. node16
-4. xcode-select --install
+2. node16
+3. xcode-select --install
 
 INITIAL SETUP
 
+1. `makecert.sh`
 1. `brew install podman podman-compose`
 1. `sudo /opt/homebrew/Cellar/podman/4.3.1/bin/podman-mac-helper install`
 1. `podman machine init`

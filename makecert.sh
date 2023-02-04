@@ -2,7 +2,7 @@
 
 mkdir certs
 
-openssl genrsa -out certs/key.pem
+openssl genrsa -out .certs/key.pem
 
 openssl req \
     -new \
@@ -11,6 +11,6 @@ openssl req \
     -nodes \
     -x509 \
     -subj "/C=US/ST=oned/L=ocal/O=commune.local/CN=commune.local" \
-    -keyout certs/commune.local.key \
-    -out certs/commune.local.cert
+    -keyout .certs/commune.local.key \
+    -out .certs/commune.local.cert
 
