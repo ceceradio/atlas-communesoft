@@ -8,8 +8,8 @@ services:
       - '8080:80'
       - '8443:443'
     volumes:
-      - ./nginx:/etc/nginx/conf.d
-      - ./certs:/etc/ssl/certs
+      - ./.nginx:/etc/nginx/conf.d
+      - ./.certs:/etc/ssl/certs
       - ./astro/dist:/astro
   db:
     image: postgres:14.5-alpine
@@ -20,15 +20,13 @@ services:
     ports:
       - '5432:5432'
     volumes:
-      - db:/var/lib/postgresql/data
+      - ./.db:/var/lib/postgresql/data
   redis:
     image: redis:alpine
     ports:
       - '6379:6379'
 volumes:
   db:
-    driver: local
-  db-faktory:
     driver: local
   nginx:
     driver: local
