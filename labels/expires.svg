@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="40mm" height="30mm" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 113.39 85.04">
+  <defs>
+    <style>
+      .cls-3 {
+        fill: #231f20;
+        font-family: SimSong-Regular-GBpc-EUC-H, SimSong;
+        font-size: 10px;
+      }
+      .cls-2 {
+        fill: #231f20;
+        font-family: SimSong-Regular-GBpc-EUC-H, SimSong;
+        font-size: 8px;
+      }
+      .cls-1 {
+        fill: #231f20;
+        font-family: SimSong-Regular-GBpc-EUC-H, SimSong;
+        font-size: 20px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <image width="142" height="140" transform="translate(53.12 32.11) scale(.35)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI0AAACLCAYAAABcBxq4AAAACXBIWXMAAB84AAAfOAGTPyf1AAAFF0lEQVR4nO2a627sMAiEt+//0Dl/TqRsNruADQzY80nViHZtLsYkrfp6EUIIIYQQQgiJ4xCUYClzPlIgbJwalDknayBsIAwp5/OnDOTv5mDU1vgjNrzOxzWgCCU+lDuXqIZh48xR9lyiA2PjjFH+XLICZAPpKH8e1o3ZOLF41RXeMGycWLzrCZ80XvuwcZ6JvnihDXMItqTS+l/2rszUz6qu9ffuRE4cHVl1gr3T3D8v2Wyc33i/u0h22Xea0f13a5zsC+W+/2zHR+mqoOvaZtJo/bBx3rWsP+9np2Tv3jjR7y6S3W7SaP3t3jDl/V4XHoLtrZI/jyJa/P9Sjzg0+aLqbQZ146MPzLvwWXF4EzppNBtmP2ulhCJvJjK++/pZ271RUZNG63+0EFUaCDVhwvyjC0ytoWa6TJpVNZr0hvnmIMreTV/B9rKTRhvHappFaMMcgh2tkv/V7Wj95d8M6kZ0u8nd4j0J86vd2MvOOoAsu3r87o2TdRO63VAt1fOCTRrqmjpNlIMyCYJA5R9eV6sDre1VqFXs7HrAJ43V0a6T5RvZEyelYc4vrS2p936rqbU+3vV3ZbRDOVlsRNUrvd5Wh94jd1fbu37pFzSrccg7XnUs2zDU3upOu4AXpV39owOmrbPbNMxJm0AXp905XB0fRpvqq9b6P51HGuU7exNaThqL3tfT9rXLNsxJ+QA3o/x5VHiWUxd+NJFcyp0P32V62GUap0wgRAX8vK4ODqNNxarlvNzhhOlJiUmjcUy7pp3WOJwwa5B2jhWeydR8HSbNkZP/apOvavxh/kcTzHr2ouOT7OrxwxvHi3KjdpDqeYT5vS48BHtWpf297WjtFv8vf2qqdz76pn4jszE9cPMzGviojSp0lN0tn+nGqdbhVW/oHXQ+s3mlNQ51T/2gSkdXvZHfQOeTdT7mBd820NrVVIrXaldTKd67HTZprETfIPTEqZZP1nk9LjgE26rSfrP+ovfP9j+7X/R5veHVudk3JusmZvnNrp/VvznQ++et60cTjvJv3T/bX3Y9zY3YbcLM+p8lOi9UPd0nDZX6xminhgemhJPGx3/YpBldN5uol39pP6uNzifL/wfWBemj0DkOL6rkMxuHed31B4dgWz8/a0vqvZ9V0fl41/fX5z/QdljWTfC6GdI+s6Dz8arrcN1QgVcpmNXeTT9ABwRL3Al0XrC6oQOj1lQRdIDdJswJOj943dCBZhXCy15dRdABwm/MIOj8Uuv29/C94//3j9vnOtrZis7X0zaD7vAuE+YOOl943dCBeyWOsrurGXTA8BszCTpvThpqqk6DTqDbhDlB5w+vGzqR0cSr2F3UHXRCXSbMHXQ9Quqm+X38eNX4u4HGrqboelhsd9A3oeukOUHXBVY3dGLaxKvaVTUcdILdJswJuj7wuqETpfpqGuhERxNGx4GuF3xCoxO+J6610fFUURhdEt8ljpSGmfn9/BpAl7/L7BbPU3xwutyYKnFkxVPukXQHXQCtvVs8ZRvmpEsBVo2jXcOcoB9V1GdtQ/VCoP17xcGGUerdz6zdzf9yDXPStSBV/FWtTzjH5cvLXk0j6tMe3qDfsD4CUQXqarNhlLAw77BhlFR4l1hJt2G3wu2WbxjZN5HvLouw2uheLZ9HSvx/xX+uhan6/y/I/88hAuiXyypKjKAPjI3SHPRBslGagj5YNkxz0AfNRmkOugHYKIvBBiEusDEIIYQQQgghhBBCCCF78g8T1TF0krGHBwAAAABJRU5ErkJggg=="/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <text class="cls-1" transform="translate(5 10)"><tspan class="cls-2" x="0" y="0">expires</tspan><tspan x="0" y="18" id="expires-date">2023-03-19</tspan></text>
+    <text class="cls-3" transform="translate(5 45)"><tspan class="cls-2" x="0" y="0">printed </tspan><tspan x="0" y="10" id="printed-date">2023-03-19</tspan></text>
+  </g>
+</svg>
